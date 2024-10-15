@@ -1,8 +1,8 @@
 
 # Hello, I'm Joji! 👋
 
-* I am a backend developer 💻 on my journey of growth in the field of development. Every day, I strive to learn new things 📚 and improve my skills.
-
+* I'm backend developer
+* 🔺 co-founder of @pyramidnetwork
 
 [![My Skills](https://skillicons.dev/icons?theme=dark&i=js,ts,html,css,linux,react,nextjs,tailwind,mongodb,nodejs,discordjs,bots)](https://skillicons.dev)
 ---
