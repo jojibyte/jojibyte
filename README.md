@@ -2,6 +2,7 @@
 # Hello, I'm Joji! 👋
 
 * I'm backend developer🐧
+* 🏫 FIRATEDU student
 * 🔺 co-founder of @pyramidnetwork
 
 [![My Skills](https://skillicons.dev/icons?theme=dark&i=js,ts,html,css,linux,react,nextjs,tailwind,mongodb,nodejs,discordjs,bots)](https://skillicons.dev)
