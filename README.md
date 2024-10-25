@@ -1,9 +1,9 @@
 
 # Hello, I'm Joji! 👋
 
-* I'm backend developer🐧 test 
-* 🏫 ANADOLUEDU student test
-* 🔺 co-founder of @pyramidnetwork test 
+* I'm backend developer🐧
+* 🏫 ANADOLUEDU student
+* 🔺 co-founder of @pyramidnetwork
 
 [![My Skills](https://skillicons.dev/icons?theme=dark&i=js,ts,html,css,linux,react,nextjs,tailwind,mongodb,nodejs,discordjs,bots)](https://skillicons.dev)
 ---
@@ -11,4 +11,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=jojibyte&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
-123
