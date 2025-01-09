@@ -5,7 +5,7 @@
 * 🏫 ANADOLUEDU student
 * 🔺 co-founder of @pyramidnetwork
 
-[![My Skills](https://skillicons.dev/icons?theme=dark&i=js,ts,html,css,linux,react,nextjs,tailwind,mongodb,nodejs,discordjs,bots)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?theme=dark&i=js,go,ts,html,css,linux,react,nextjs,tailwind,mongodb,nodejs,discordjs,bots)](https://skillicons.dev)
 ---
 [![Discord Presence](https://lanyard.cnrad.dev/api/830508932619173929)](https://discord.com/users/830508932619173929)
 ---
