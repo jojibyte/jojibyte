@@ -3,7 +3,6 @@
 
 * I'm backend developer🐧
 
-[![My Skills](https://skillicons.dev/icons?theme=dark&i=js,go,ts,html,css,linux,react,nextjs,tailwind,mongodb,nodejs,discordjs,bots)](https://skillicons.dev)
 ---
 ---
 [![](https://visitcount.itsvg.in/api?id=jojibyte&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
